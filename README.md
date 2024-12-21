@@ -1,9 +1,7 @@
 # 💡*Electricity Usage Analysis* 💡
 
-Morocco Electricity Consumption (Electricity Usage Analysis) – Writeup 
-
-### **The Situation:** You’ve been hired as a Demand Analyst for Morocco’s National Power Co.
-### **The Assignment:** Morocco’s National Power Co. is assessing plans for upgrading its infrastructure.
+#### **The Situation:** You’ve been hired as a Demand Analyst for Morocco’s National Power Co.
+#### **The Assignment:** Morocco’s National Power Co. is assessing plans for upgrading its infrastructure.
 
 #### You’ve been asked to analyze seasonality in electricity consumption, to help identify peak lead periods across hours of the day and days of the week to help make investments to prevent outages during these times. 
 
